@@ -18,7 +18,9 @@ File Uploads: Manage files with Multer
 
 ## Technologies Used:
 Frontend Tools:React,Bootstrap,React-Quill,React Router,Axios
+
 Backend Tools:Node.js,Express,Mongoose,JSON Web Tokens (JWT),Bcrypt,Multer,Cookie-parser,Cors,Path
+
 Database:MongoDB
 
 
